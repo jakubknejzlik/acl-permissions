@@ -23,7 +23,7 @@ describe('PermissionList', () => {
 
   it('should parse and match with wildcards', () => {
     const resource = new PermissionList(
-      'allow|field:test*\ndeny|field*:test2\nallow|field*:test2:*'
+      'allow|field:test*\n' + 'deny|field*:test2\n' + 'allow|field*:test2:*'
     );
 
     const expectations = {
