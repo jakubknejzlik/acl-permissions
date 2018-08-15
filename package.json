@@ -1,7 +1,7 @@
 {
   "name": "acl-permissions",
   "description": "Library for handling Access Control List permissions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "license": "MIT",
   "repository": {
