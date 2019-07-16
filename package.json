@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nappjs/nappjs-graphql-api.git"
+    "url": "https://github.com/jakubknejzlik/acl-permissions.git"
   },
   "scripts": {
     "test": "mocha -r ts-node/register src/**/*.spec.ts"
